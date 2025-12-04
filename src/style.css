@@ -1,0 +1,10 @@
+.socialIcon {
+  display: inline-block;
+  margin: 10px;
+  font-size: 20px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.socialIcon:hover {
+  transform: scale(1.2) rotate(3deg);
+}
